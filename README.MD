@@ -14,3 +14,6 @@ Papers from the computer science community to read and discuss.
 
 Every Programmer Should Know
 A collection of (mostly) technical things every software developer should know about
+
+Heynote
+A dedicated scratchpad for developers
