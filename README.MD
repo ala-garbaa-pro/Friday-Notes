@@ -33,3 +33,6 @@ Clean Code concepts adapted for JavaScript
 VOCS
 Minimal Documentation Framework, powered by React + Vite
 
+react-use
+Collection of essential React Hooks
+
