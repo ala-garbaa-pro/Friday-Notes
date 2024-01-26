@@ -41,3 +41,7 @@ Generation of diagrams like flowcharts or sequence diagrams from text in a simil
 
 PrimeVue
 Next Generation Vue UI Component Library
+
+Mutative
+Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
+
