@@ -29,3 +29,7 @@ The Node.js Framework highly focused on developer ergonomics, stability and conf
 
 Clean Code
 Clean Code concepts adapted for JavaScript
+
+VOCS
+Minimal Documentation Framework, powered by React + Vite
+
