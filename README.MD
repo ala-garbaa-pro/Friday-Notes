@@ -26,3 +26,6 @@ Innovative and open-source visualization application that transforms various dat
 
 Adonis
 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+
+Clean Code
+Clean Code concepts adapted for JavaScript
