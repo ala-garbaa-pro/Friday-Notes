@@ -39,3 +39,5 @@ Collection of essential React Hooks
 Mermaid
 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
+PrimeVue
+Next Generation Vue UI Component Library
