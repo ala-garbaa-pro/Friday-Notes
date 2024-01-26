@@ -20,3 +20,6 @@ A dedicated scratchpad for developers
 
 Nextra
 Simple, powerful and flexible site generation framework with everything you love from Next.js.
+
+JSON Crack
+Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
