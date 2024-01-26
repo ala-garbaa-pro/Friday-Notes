@@ -36,3 +36,6 @@ Minimal Documentation Framework, powered by React + Vite
 react-use
 Collection of essential React Hooks
 
+Mermaid
+Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
