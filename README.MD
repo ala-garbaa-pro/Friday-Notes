@@ -9,3 +9,6 @@ A React Framework for building internal tools, admin panels, dashboards & B2B ap
 Tech Interview Handbook
 Curated coding interview preparation materials for busy software engineers
 
+Papers we love
+Papers from the computer science community to read and discuss.
+
