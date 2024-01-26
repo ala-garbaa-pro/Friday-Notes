@@ -17,3 +17,6 @@ A collection of (mostly) technical things every software developer should know a
 
 Heynote
 A dedicated scratchpad for developers
+
+Nextra
+Simple, powerful and flexible site generation framework with everything you love from Next.js.
